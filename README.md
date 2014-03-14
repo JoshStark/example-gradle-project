@@ -20,3 +20,4 @@ If you're using eclipse, you'll need to let gradle set up your project and build
 
 Gradle should download the initial dependencies to your machine and add them to your project's buildpath. The current .gitignore file has been set up to ignore any gradle-specific libraries. Every new clone of this repo will need an initial build.
 
+[![Build Status](https://travis-ci.org/JAGFin1/example-gradle-project.png?branch=master)](https://travis-ci.org/JAGFin1/example-gradle-project)
