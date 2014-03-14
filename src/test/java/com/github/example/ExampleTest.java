@@ -1,6 +1,6 @@
 package com.github.example;
 
-import static org.junit.Assert;
+import static org.junit.Assert.assert;
 import org.junit.Test;
 
 public class ExampleTest {
