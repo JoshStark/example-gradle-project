@@ -11,6 +11,12 @@ Example gradle project with Travis-CI compatibility. This project should contain
 
 Once you've cloned the repo, run:
 
+OS X/UNIX
+
+	./gradlew build
+
+Windows
+
 	gradlew build
 
 If you're using eclipse, you'll need to let gradle set up your project and buildpath:
